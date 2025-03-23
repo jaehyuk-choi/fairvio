@@ -44,12 +44,3 @@ This project integrates Retrieval-Augmented Generation (RAG) with phone-based in
 | `node_modules/` | Frontend packages |
 | `.env` | Environment variables (API keys, etc.) |
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/fairvio.git
-cd fairvio
