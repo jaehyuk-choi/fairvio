@@ -1,0 +1,19 @@
+# Core ML & Embedding
+sentence-transformers==2.2.2
+torch>=2.0.0
+transformers>=4.36.0
+
+# Retrieval & Vector DB
+faiss-cpu==1.7.4
+
+# PDF Handling
+pdfplumber==0.10.2
+
+# Chunking Utility
+langchain==0.1.11
+
+# Hugging Face API & dotenv
+huggingface-hub==0.20.3
+python-dotenv==1.0.1
+
+streamlit==1.32.2
